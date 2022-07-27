@@ -18,5 +18,8 @@
   "homepage": "https://github.com/taa2153/Team-Profile-Generator-OOP-HW10#readme",
   "dependencies": {
     "inquirer": "^9.0.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }
